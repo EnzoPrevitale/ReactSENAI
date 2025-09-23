@@ -1,0 +1,9 @@
+@use "../../variables.scss" as *;
+
+figure {
+    width: 30%;
+    img{
+        width: 100%;
+        border-radius: 25px;
+    }
+}
